@@ -17,7 +17,7 @@ button{
   margin:auto;
 }
 .boy-lose{
-  background-image: url("boy-jaw-drop.jpg");  
+  background-image: url("boy-mad.jpg");  
 }
 .girl{
   width: 148px;
@@ -27,7 +27,7 @@ button{
   margin:auto;
 }      
 .girl-lose{
-  background-image: url("girl-jaw-drop.jpg");  
+  background-image: url("girl-mad.jpg");  
 }
 .result{
   font-size: 30px;
