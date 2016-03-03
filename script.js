@@ -78,11 +78,13 @@
       function boyWins(){
         // ****** STEP THREE ******
         // add the class "girl-lose" to the girl div
+        $(".girl").addClass("girl-lose")
         $("#message").html("Boy wins!");
       }
       
       function girlWins(){
         // ****** STEP THREE ******
-        // add the class "boy-lose" to the boy div  
+        // add the class "boy-lose" to the boy div
+        $(".boy").addClass("boy-lose")
         $("#message").html("Girl wins!");
       }
